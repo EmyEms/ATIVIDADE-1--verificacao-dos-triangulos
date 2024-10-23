@@ -25,7 +25,7 @@ O programa pede como entrada os três lados e os três ângulos dos dois triâng
 
 Abaixo está uma captura de tela do esboço geométrico feito no **GeoGebra**, mostrando dois triângulos, que foram usados para testar a semelhança no programa:
 
-(caminho/para/sua/imagem.png)
+(https://raw.githubusercontent.com/EmyEms/ATIVIDADE-1--verificacao-dos-triangulos/refs/heads/main/print%20dos%20triangulos.jpeg)
 
 ## Link para o GeoGebra
 
