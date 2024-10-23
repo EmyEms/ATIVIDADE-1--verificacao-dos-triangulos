@@ -23,22 +23,20 @@ O programa pede como entrada os três lados e os três ângulos dos dois triâng
 
 ## Teste
 Exemplo de Execução
-Aqui está um exemplo de como o programa pode ser executado:
 
+-Digite o lado a do triângulo 1: 3
+-Digite o lado b do triângulo 1: 4
+-Digite o lado c do triângulo 1: 5
+-Digite o ângulo A do triângulo 1: 45
+-Digite o ângulo B do triângulo 1: 90
+-Digite o ângulo C do triângulo 1: 45
 
-Digite o lado a do triângulo 1: 3
-Digite o lado b do triângulo 1: 4
-Digite o lado c do triângulo 1: 5
-Digite o ângulo A do triângulo 1: 45
-Digite o ângulo B do triângulo 1: 90
-Digite o ângulo C do triângulo 1: 45
-
-Digite o lado a do triângulo 2: 6
-Digite o lado b do triângulo 2: 8
-Digite o lado c do triângulo 2: 10
-Digite o ângulo A do triângulo 2: 45
-Digite o ângulo B do triângulo 2: 90
-Digite o ângulo C do triângulo 2: 45
+-Digite o lado a do triângulo 2: 6
+-Digite o lado b do triângulo 2: 8
+-Digite o lado c do triângulo 2: 10
+-Digite o ângulo A do triângulo 2: 45
+-Digite o ângulo B do triângulo 2: 90
+-Digite o ângulo C do triângulo 2: 45
 
 Saída: Os triângulos são semelhantes pelo critério LLL (Lado-Lado-Lado).
 
